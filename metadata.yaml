@@ -1,5 +1,5 @@
 _repo: The-Kreutzer-Sonata-and-Other-Stories_689
-_version: 0.1.1
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Tucker, Benjamin Ricketson
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1939
     gutenberg_agent_id: '6683'
     url: http://www.gutenberg.org/2009/agents/6683
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -29,6 +32,8 @@ description: "The Kreutzer Sonata (Russian: Крейцерова соната, K
   \ leading up to his killing his wife; in his analysis, the root cause for the deed\
   \ were the \"animal excesses\" and \"swinish connection\" governing the relation\
   \ between the sexes.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/689#The-Kreutzer-Sonata-and-Other-Stories
 gutenberg_bookshelf:
 - Anarchism
 - Harvard Classics
